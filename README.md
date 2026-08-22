@@ -1,6 +1,20 @@
-AI Governance & Defense Industry
+# AI Governance & Defense Industry
 
-A small reference project exploring how enterprise generative AI can be designed, governed, and secured in defense-industry environments.
+NIST AI RMF • NIST AI 600-1 • CMMC • NIST SP 800-171
+
+[ARCHITECTURE DIAGRAM]
+
+A conceptual reference architecture exploring secure enterprise
+GenAI access, AI governance, and cybersecurity considerations
+for defense-related environments.
+
+## Documentation
+
+- Architecture Overview
+- Data Flow
+- AI RMF Mapping
+- GenAI Risk Assessment
+- CMMC / NIST 800-171 Mapping
 
 The project brings together concepts from:
 
